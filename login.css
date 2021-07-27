@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-image: url("loginBG.png");
+    background-position: center;
+    background-size: cover;
+}
+#title{
+    font-family: 'Yeon Sung';
+    margin: 20px;
+    font-size: 60px;
+}
+.login_div{
+
+    margin: 10px;
+    background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    height: 340px;
+    width: 700px;
+}
+.logo
+{
+	width: 80px;
+    margin-top: 30px;
+    border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;
+    margin: 10px;
+}
+
+
+#output
+{
+	padding: 10px; 
+    width:80%;
+    background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+#title{
+    color: rgb(236, 243, 245);
+}
+
+label{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.LOGO2{
+    margin: 10px;
+    height: 60px;
+    width: 68px;
+}

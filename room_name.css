@@ -1,0 +1,32 @@
+body{
+    background-image: url("roomBG.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#title{
+    font-family: 'Yeon Sung';
+    margin: px;
+    font-size: 60px;
+    color: rgb(30, 4, 104);
+}
+
+#logout{
+    margin: 10px;
+	font-size: 15px;
+    float: right;
+}
+
+#room_name_input{
+    width: 1000px;
+}
+
+.ace_rooms{
+
+    margin: 10px;
+    background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    height: 20px;
+    width: 700px;
+}

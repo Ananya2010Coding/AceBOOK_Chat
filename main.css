@@ -1,0 +1,45 @@
+body{
+    background-image: url("main_roomBG.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    font-family: 'Yeon Sung';
+    margin: 20px;
+    font-size: 60px;
+    color: rgb(2, 24, 71);
+}
+#messages{
+	padding: 10px; 
+    width:80%;
+    background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+label{
+    margin-top: 10px;
+    font-size: 20px;
+}
+#msg{
+    width: 900px;
+}
+#send_button{
+    margin: 10px;
+}
+#logout{
+    margin: 10px;
+    text-align: left;
+}
+#input_div_message_page{
+	position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background: rgba(255,255,255,0.8);
+}
+#logout{
+	font-size: 20px;
+    float: right;
+}
+#tickIMG{
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
